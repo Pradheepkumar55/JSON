@@ -1,0 +1,65 @@
+{
+    "name": "Pradheep Kumar",
+    "contact_information": {
+      "email": "pradheepkumar5555@gmail.com",
+      "phone": "9025014324",
+      "address": "11/144,Glendale Esate,Glenmore Division,CoonoorX,The Nillgris.",
+      "pincode":"643102."
+    },
+    "summary": "Experienced software engineer with a strong background in web development and database management. Proven track record of delivering high-quality solutions in agile environments.",
+    "education": [
+      {
+        "degree": "Bachelor of Engineer Electrical & electrnicals Engineering",
+        "institution": "CSI Colloge og Engineering",
+        "location": "City,Ooty,ketti",
+        "graduation_date": "May 2021"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Full Stack Developer ",
+        "company": "guvi.",
+        "location": "chenni",
+        "start_date": "June 2024",
+        "end_date": "prestend",
+        "responsibilities": [
+          "Designed and implemented RESTful APIs for a scalable cloud-based platform.",
+          "Led a team of developers through various phases of software development lifecycle.",
+          "Optimized database performance and data retrieval processes."
+        ]
+      },
+      {
+        "position": "Electrical Engineer",
+        "company": "Brun Side Estate..",
+        "location": "The Nillgris",
+        "start_date": "June 2021",
+        "end_date": "May 2022",
+        "responsibilities": [
+          "Designed and implemented Electrical filed."
+          
+           
+          ]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Git",
+      "HTML/CSS"
+    ],
+    "languages": [
+      {
+        "language": "Tamil",
+        "fluency": "Native"
+      },
+      {
+        "language": "English",
+        "fluency": "Intermediate"
+      }
+    ],
+    "interests": [
+      "Open-source projects",
+      "Photography"
+    ]
+  }
+  
